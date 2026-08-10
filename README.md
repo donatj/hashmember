@@ -1,6 +1,5 @@
 # hashmember
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/donatj/hashmember)](https://goreportcard.com/report/github.com/donatj/hashmember)
 [![GoDoc](https://godoc.org/github.com/donatj/hashmember?status.svg)](https://godoc.org/github.com/donatj/hashmember)
 ![CI](https://github.com/donatj/hashmember/workflows/CI/badge.svg)
 
